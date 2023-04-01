@@ -1,1 +1,5 @@
-# big-data-developer-training
+# Big Data Developer Training
+
+
+# Essential Softwares 
+
