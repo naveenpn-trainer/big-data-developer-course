@@ -1,0 +1,10 @@
+col_name,col_company,col_salary,col_department
+Anand,,-2,R&D
+Naveen,Cisco,2000000,R&D
+Pawan,Cerner,2100000,
+"",IBM,,
+Girish,,-1,
+Kishore,TCS,,
+,Ericson,,
+,,,
+,,-1,
