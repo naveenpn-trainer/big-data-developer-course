@@ -4,12 +4,20 @@
 
 
 
-# Important Links
+# Software Essentials
 
+* [Git Download](https://git-scm.com/downloads)
 * [Local Development Environment Setup](https://docs.google.com/document/d/e/2PACX-1vR_mva3l81HrvbGeJOimo0MtssVVSGi4at3WYeRCHBeBAm319t3XivQCV97dhkpK1a5cSCUN7cdO3Sd/pub)
+* [PyCharm IDE **Community Edition** Download](https://www.jetbrains.com/pycharm/download/#section=windows) 
 * [Download DBeaver](https://dbeaver.io/download/)
 
-# Configure PySpark Environment
+# Local Development Environment
+
+* [Spark and PySpark Environment Setup](https://docs.google.com/document/d/e/2PACX-1vR_mva3l81HrvbGeJOimo0MtssVVSGi4at3WYeRCHBeBAm319t3XivQCV97dhkpK1a5cSCUN7cdO3Sd/pub)
+* Confluent Kafka Environment Setup
+* Zeppelin Environment Setup
+
+# Configure PySpark Virtual Environment
 
 ```shell
 cd c:/big-data-hadoop-spark-developer-training-simplilearn
