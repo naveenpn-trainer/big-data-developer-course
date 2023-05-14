@@ -9,9 +9,8 @@ import java.io.IOException;
 
 public class WordCountMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
     /*
-        K,V
-        0, C C++ Java C
-        [C,C++,Java,C]
+        C C++ Python
+        Python C Python
 
      */
     @Override
@@ -24,4 +23,14 @@ public class WordCountMapper extends Mapper<LongWritable, Text, Text, IntWritabl
             context.write(new Text(word), new IntWritable(1));
         }
     }
+
+    /*
+        c,1
+        c+=,1
+        python,1
+        python,1
+        c,1
+        python,1
+
+     */
 }

@@ -7,6 +7,7 @@
     <groupId>org.simplilearn</groupId>
     <artifactId>map-reduce-programs</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
@@ -53,7 +54,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>org.simplilearn.wordcount.HBaseTableCreation</mainClass>
+                                    <mainClass>HBaseTableCreation</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>

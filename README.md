@@ -13,7 +13,7 @@
 
 # Local Development Environment
 
-* [Spark and PySpark Environment Setup](https://docs.google.com/document/d/e/2PACX-1vR_mva3l81HrvbGeJOimo0MtssVVSGi4at3WYeRCHBeBAm319t3XivQCV97dhkpK1a5cSCUN7cdO3Sd/pub)
+* [Spark and PySpark Environment Setup](https://docs.google.com/document/d/1KR4zTwI7TDzG3Irt0oH5DoQU9n5nHb5iUxlcoqjJpUs/edit?usp=sharing)
 * Confluent Kafka Environment Setup
 * Zeppelin Environment Setup
 
