@@ -16,6 +16,7 @@
 * [Spark and PySpark Environment Setup](https://docs.google.com/document/d/1KR4zTwI7TDzG3Irt0oH5DoQU9n5nHb5iUxlcoqjJpUs/edit?usp=sharing)
 * Confluent Kafka Environment Setup
 * Zeppelin Environment Setup
+* [PySpark on Google Colab](https://blog.naveenpn.com/pyspark-on-google-colab)
 
 # Configure PySpark Virtual Environment
 
