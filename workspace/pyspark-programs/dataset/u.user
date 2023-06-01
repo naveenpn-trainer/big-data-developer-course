@@ -1,8 +1,8 @@
-id|age|gen|designation|salary
+col_id|col_experience|col_gen|col_designation|col_salary
 1|24|M|technician|85711
 2|53|F|other|94043
 3|23|M|writer|32067
-4|24|M|technician|43537
+4|24|M|Technician|43537
 5|33|F|other|15213
 6|42|M|executive|98101
 7|57|M|administrator|91344
@@ -42,7 +42,7 @@ id|age|gen|designation|salary
 41|33|M|engineer|80525
 42|30|M|administrator|17870
 43|29|F|librarian|20854
-44|26|M|technician|46260
+44|26|M|Technician|46260
 45|29|M|programmer|50233
 46|27|F|marketing|46538
 47|53|M|marketing|07102
@@ -75,7 +75,7 @@ id|age|gen|designation|salary
 74|39|M|scientist|41850
 75|24|M|entertainment|08816
 76|20|M|student|02215
-77|30|M|technician|29379
+77|30|M|Technician|29379
 78|26|M|administrator|61801
 79|39|F|administrator|03755
 80|34|F|administrator|52241
@@ -141,7 +141,7 @@ id|age|gen|designation|salary
 140|30|F|student|32250
 141|49|M|programmer|36117
 142|13|M|other|48118
-143|42|M|technician|08832
+143|42|M|Technician|08832
 144|53|M|programmer|20910
 145|31|M|entertainment|20910
 146|45|M|artist|83814
@@ -195,7 +195,7 @@ id|age|gen|designation|salary
 194|38|M|administrator|02154
 195|42|M|scientist|93555
 196|49|M|writer|55105
-197|55|M|technician|75094
+197|55|M|Technician|75094
 198|21|F|student|55414
 199|30|M|writer|17604
 200|40|M|programmer|93402
@@ -242,5 +242,5 @@ id|age|gen|designation|salary
 241|26|F|student|20001
 242|33|M|educator|31404
 243|33|M|educator|60201
-244|28|M|technician|100005
-245|26|F|technician|110000
+244|28|M|Technician|100005
+245|26|F|Technician|110000
