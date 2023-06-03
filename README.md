@@ -15,16 +15,5 @@ I am interested in 𝐰𝐫𝐢𝐭𝐢𝐧𝐠 𝐛𝐥𝐨𝐠𝐬, 𝐬𝐡�
 
 **Book a 1:1 session** : https://topmate.io/naveenpn
 
-## Configure PySpark Virtual Environment
-
-```shell
-cd c:/big-data-hadoop-spark-developer-training-simplilearn
-
-# Create Virtual Environment
-python -m venv venv
-.\Scripts\activate
-pip install -r requirements.txt
-```
-
 
 
