@@ -1,4 +1,4 @@
-# Big Data Hadoop Spark Developer Training
+# Big Data Developer Course
 
 **Trainer :** Naveen
 
