@@ -1,4 +1,4 @@
-package org.simplilearn.wordcount;
+package org.training.wordcount;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.LongWritable;
