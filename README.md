@@ -1,6 +1,7 @@
 # Big Data Developer Course
 
 **Trainer :** Naveen
+
 **LinkedIn :** https://linkedin.com/in/naveen-pn
 
 
