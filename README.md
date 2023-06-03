@@ -12,13 +12,21 @@ I am interested in 𝐰𝐫𝐢𝐭𝐢𝐧𝐠 𝐛𝐥𝐨𝐠𝐬, 𝐬𝐡�
 𝐊𝐞𝐲 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬 / 𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐭𝐢𝐞𝐬:
 -----------------------------------------
 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 - Java and Python
+
 𝐖𝐞𝐛 𝐟𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 - Spring Boot
+
 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤/𝐓𝐨𝐨𝐥𝐬 - Hadoop, Apache Spark , Kafka, Structured Streaming
+
 𝐀𝐖𝐒 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 - S3, EC2, EMR, Serverless architecture (Lambda), Glue, DynamoDB, Kinesis.
+
 𝐀𝐳𝐮𝐫𝐞 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 : Azure Databricks, DataFactory
+
 𝐓𝐞𝐬𝐭 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 : Selenium, API Testing (Rest Assured), Cucumber,
+
 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦 - MongoDB
+
 𝐌𝐢𝐜𝐫𝐨𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬 - Docker, Kubernetes
+
 𝐃𝐞𝐯𝐎𝐩𝐬 : Apache Maven, Sonar, Jenkins
 
 **LinkedIn :** https://linkedin.com/in/naveen-pn
