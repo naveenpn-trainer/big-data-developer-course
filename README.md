@@ -1,8 +1,7 @@
 # Big Data Developer Course
 
 **Trainer :** Naveen
-https://linkedin.com/in/naveen-pn
-
+**LinkedIn :** https://linkedin.com/in/naveen-pn
 
 
 ## Configure PySpark Virtual Environment
