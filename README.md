@@ -4,13 +4,6 @@
 
 
 
-
-## Spark / PySpark
-
-* [Spark and PySpark Environment Setup](https://docs.google.com/document/d/1KR4zTwI7TDzG3Irt0oH5DoQU9n5nHb5iUxlcoqjJpUs/edit?usp=sharing)
-* Zeppelin Environment Setup
-* [PySpark on Google Colab](https://blog.naveenpn.com/pyspark-on-google-colab)
-
 ## Configure PySpark Virtual Environment
 
 ```shell
@@ -22,12 +15,5 @@ python -m venv venv
 pip install -r requirements.txt
 ```
 
-## Kafka
 
-* Confluent Kafka Environment Setup
 
-## AWS for Data Engineering
-
-* [Putty Download](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)
-* [Puttygen Download](https://the.earth.li/~sgtatham/putty/latest/w64/puttygen.exe)
-* [AWS CLI](https://awscli.amazonaws.com/AWSCLIV2.msi)
