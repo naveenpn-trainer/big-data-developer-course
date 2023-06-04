@@ -1,5 +1,6 @@
+CREATE  DATABASE IF NOT EXISTS ${hivevar:database};
 
-USER ${hivevar:database};
+USE ${hivevar:database};
 
 CREATE TABLE IF NOT EXISTS transaction_records(
     txnno INT,
