@@ -1,6 +1,8 @@
 set hive.enforce.bucketing=true;
 
-CREATE TABLE IF NOT EXISTS analytics.transaction_records_bucketing(
+USE ${hivevar:database};
+
+CREATE TABLE IF NOT EXISTS transaction_records_bucketing(
     txnno INT, 
     txndate STRING, 
     custno INT, 
@@ -18,7 +20,7 @@ STORED AS TextFile;
 --
 
 FROM analytics.transaction_records txn
-INSERT OVERWRITE TABLE analytics.transaction_records_bucketing
+INSERT OVERWRITE TABLE transaction_records_bucketing
 select
     txn.txnno,
     txn.txndate,

@@ -17,7 +17,7 @@ ROW FORMAT DELIMITED FIELDS TERMINATED BY ','
 STORED AS TextFile;
 
 LOAD DATA LOCAL INPATH
-'/home/${env:USER}/workdir/Transactions.txt'
+'/mnt/home/${hivevar:user}/workdir/Transactions.txt'
 INTO TABLE transaction_records;
 
 
