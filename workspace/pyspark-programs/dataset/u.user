@@ -1,4 +1,4 @@
-col_id|col_experience|col_gen|col_designation|col_salary
+col_id|col_exp_in_months|col_gen|col_designation|col_salary
 1|24|M|technician|85711
 2|53|F|other|94043
 3|23|M|writer|32067
