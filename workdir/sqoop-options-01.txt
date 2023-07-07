@@ -1,0 +1,6 @@
+--connect
+jdbc:mysql://localhost:3306/sqoop_demo
+--username 
+root
+--password 
+root
