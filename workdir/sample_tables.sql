@@ -1,8 +1,9 @@
-create database sqoop_demo;
+DROP TABLE user;
+DROP TABLE employee;
+DROP TABLE stocks;
 
-use sqoop_demo;
 
-CREATE TABLE user( 
+CREATE TABLE  user( 
 id int, 
 age int, 
 gender char(2), 
@@ -10,16 +11,16 @@ PRIMARY KEY (id)
 );
 
 
-insert into user(id,age,gender) values(1001,25,'F')
-insert into user(id,age,gender) values(1002,26,'F')
-insert into user(id,age,gender) values(1003,27,'F')
-insert into user(id,age,gender) values(1004,28,'F')
-insert into user(id,age,gender) values(1005,29,'F')
-insert into user(id,age,gender) values(1006,30,'F')
-insert into user(id,age,gender) values(1007,31,'F')
-insert into user(id,age,gender) values(1008,32,'F')
-insert into user(id,age,gender) values(1009,33,'F')
-insert into user(id,age,gender) values(1010,34,'F')
+insert into user(id,age,gender) values(1001,25,'M');
+insert into user(id,age,gender) values(1002,26,'F');
+insert into user(id,age,gender) values(1003,27,'M');
+insert into user(id,age,gender) values(1004,28,'M');
+insert into user(id,age,gender) values(1005,29,'M');
+insert into user(id,age,gender) values(1006,30,'F');
+insert into user(id,age,gender) values(1007,31,'M');
+insert into user(id,age,gender) values(1008,32,'F');
+insert into user(id,age,gender) values(1009,33,'M');
+insert into user(id,age,gender) values(1010,34,'F');
 
 CREATE TABLE employee( 
 id int, 
